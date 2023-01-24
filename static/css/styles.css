@@ -88,6 +88,9 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.col-md-5 img {
+  width: 100%;
+}
 
 hr {
   margin: 1rem 0;
